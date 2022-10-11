@@ -1,4 +1,6 @@
 <h1>Welcome to the class</h1>
+<h1>Fill this form out first</h1>
+
 <form action="/action_page.php">
   <h2>Register Form</h2>
   <div class="input-container">
